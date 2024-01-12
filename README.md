@@ -52,12 +52,12 @@ No additional package are required.
 
 #### List of the process that require the COB/Unilav
 
-Hire or Rehire Full and Par times
-Hire or Rehire an Internships Extracurricular
-Contract Renewals
-Transfer Internal Changes
-Employee Termination
-Injuries
+. Hire or Rehire Full and Par times
+. Hire or Rehire an Internships Extracurricular
+. Contract Renewals
+. Transfer Internal Changes
+. Employee Termination
+. Injuries
 
 
 #### Time spend in mm
